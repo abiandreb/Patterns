@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="BuilderPattern/BuilderPattern.csproj" />
+  <Project Path="VisitorPattern/VisitorPattern.csproj" />
+  <Project Path="TemplateMethodPattern/TemplateMethodPattern.csproj" />
+  <Project Path="StrategyPattern/StrategyPattern.csproj" />
+  <Project Path="StatePattern/StatePattern.csproj" />
+  <Project Path="ObserverPattern/ObserverPattern.csproj" />
+  <Project Path="FactoryPattern/FactoryPattern.csproj" />
+  <Project Path="SingletonPattern/SingletonPattern.csproj" />
+  <Project Path="MementoPattern/MementoPattern.csproj" />
+  <Project Path="AdapterPattern/AdapterPattern.csproj" />
+  <Project Path="DecoratorPattern/DecoratorPattern.csproj" />
+  <Project Path="ProxyPattern/ProxyPattern.csproj" />
+  <Project Path="CommandPattern/CommandPattern.csproj" />
+  <Project Path="ChainOfResponsibilityPattern/ChainOfResponsibilityPattern.csproj" />
+</Solution>
